@@ -1,0 +1,10 @@
+insert into ClassCodes (subject_code) values ('MATH');
+insert into ClassCodes (subject_code) values ('ENGL');
+insert into ClassCodes (subject_code) values ('HIST');
+insert into ClassCodes (subject_code) values ('SCI');
+insert into ClassCodes (subject_code) values ('ART');
+insert into ClassCodes (subject_code) values ('PE');
+insert into ClassCodes (subject_code) values ('LANG');
+insert into ClassCodes (subject_code) values ('COMP');
+insert into ClassCodes (subject_code) values ('MUSIC');
+insert into ClassCodes (subject_code) values ('GEOG');
